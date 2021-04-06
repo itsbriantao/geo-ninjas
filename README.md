@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+This is a project that enables real-time chat between users online by creating personal message boards for each user and pinpoints their physical location using the Google Maps API. Hosting and storage is provided by Firebase.
+
+Deployed on https://udemy-geo-ninjas-e3b91.web.app/. Note that some features may no longer work due to the expiration of the API key and Firestore configurations.
+
 ## Build Setup
 
 ``` bash
